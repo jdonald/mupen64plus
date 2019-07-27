@@ -6,7 +6,7 @@ set -e
 if [ "$1" = "-h" -o "$1" = "--help" ]; then
 	echo "Mupen64plus installer for the Raspberry PI"
 	echo "Usage:"
-	echo "[Environment Vars] ./buid.sh [defaultList]"
+	echo "[Environment Vars] ./build.sh [defaultList]"
 	echo
 	echo "Environment Variable options:"
 	echo ""
